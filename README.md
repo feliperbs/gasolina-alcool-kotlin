@@ -1,5 +1,5 @@
 # gasolina-alcool-kotlin
-Segundo app utilizando Kotlin
+Cáculdo de viabilidade de abastecimento do carro
 
 FACILIDADES: sintaxe reduzida, aumentando a produtividade
 
